@@ -6,7 +6,12 @@ public class MyClass {
 		// TODO Auto-generated method stub
 		 System.out.println("Hello Git!");
 		 System.out.println("This is the 2nd version");
+
 		 System.out.println("My changed in master branch");
+
+		 Yourclass your = new Yourclass();
+		 your.sayHello("Everyone");
+
 	}
 
 }
